@@ -1,3 +1,3 @@
 ### Calculadora
 
-### ⚠️ Em andamento: falta concluir o Javascript para deixar funcional.
+### Projeto de uma calculadora básica para treinar funções construtoras! :)
