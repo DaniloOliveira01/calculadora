@@ -20,26 +20,35 @@ body {
 
 .main-container > .output {
   grid-column: 1 / -1;
-  background-color: #333;
+  background-color: #000;
   display: flex;
   flex-direction: column;
-  align-items: flex-end;
-  justify-content: space-around;
+  align-items: center;
   padding: 10px;
   word-wrap: break-word;
   word-break: break-all;
   border-bottom: 2px solid #fff;
 }
 
-.main-container > .output > .preview-operation {
-  color: rgba(255, 255, 255, 0.75);
-  font-size: 1.5rem;
-}
-
-.main-container > .output > .current-operation {
+.main-container > .output > .title-output {
   color: #fff;
   font-size: 2rem;
+  font-family: Arial, Helvetica, sans-serif;
 }
+
+.main-container > .output > .display {
+  background-image: linear-gradient(to top, #c84ded, #783cf2);
+  color: #fff;
+  padding: 20px;
+  font-size: 1.5rem;
+  text-align: right;
+  outline: none;
+}
+
+.main-container > .output > .display:focus {
+  outline: 1px solid blueviolet;
+}
+
 
 .main-container > .space-two {
   grid-column: span 2;
