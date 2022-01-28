@@ -1,4 +1,4 @@
-### 🔢 Calculadora
+# 🔢 Calculadora
 
 ### 📌 Projeto de uma calculadora básica para treinar funções construtoras! :)
 
@@ -8,4 +8,4 @@
  - CSS
  - JavaScript
 
-### Desenvolvedor - Danilo Oliveira 🚀
+##### Desenvolvedor - Danilo Oliveira 🚀
