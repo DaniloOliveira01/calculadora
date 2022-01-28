@@ -8,4 +8,4 @@
  - CSS
  - JavaScript
 
-##### Desenvolvedor - Danilo Oliveira 🚀
+##### 👨‍💻 Desenvolvedor - Danilo Oliveira 🚀
